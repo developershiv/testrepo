@@ -1,2 +1,1 @@
-New feature A added by developershiv.
 Add featureA by developershiv
